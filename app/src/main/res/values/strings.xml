@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech-To-Text</string>
+    <string name="gc">Gadget Creek</string>
+    <string name="mic">Tap on mic to speak</string>
+</resources>
